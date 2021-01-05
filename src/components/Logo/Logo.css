@@ -1,0 +1,15 @@
+.Tilt{
+ 
+   background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+   position: relative;
+   z-index:1;
+   margin-top:130px;
+   margin-left:50px
+}
+
+@media only screen and (max-width: 470px) {
+  .Tilt {
+    height: 70px;
+    width: 70px;
+  }
+}
